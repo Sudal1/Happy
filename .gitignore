@@ -1,0 +1,5 @@
+uploads
+node_modules
+package-lock.json
+config/config.env
+config/firebase-key.json
